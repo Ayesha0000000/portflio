@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+
+# Node modules (agar frontend bhi hai)
+node_modules/
+
+# Secrets
+.env
+.env.*
+
+# Database
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.swp
